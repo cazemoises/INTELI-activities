@@ -41,7 +41,7 @@ Para executar este projeto, é necessário ter Python 3.7+ instalado. Primeiro, 
 pip install gymnasium[box2d] matplotlib stable_baselines3
 ```
 
-> [!WARNING]
+> [!NOTE]
 > Existe uma célula já implementada no notebook (`Car_Racing.ipynb`), não sendo necessária a execução do comando externamente.
 
 ## Uso
