@@ -51,7 +51,7 @@ Para explorar o projeto no formato de notebook, assegure-se de ter o Jupyter Lab
 
 ### Script Python
 
-Para executar o script Python diretamente, utilize o seguinte comando no terminal:
+Para executar o script Python diretamente, depois de ter feito a instalação conforme instruido anteriormente, utilize o seguinte comando no terminal:
 
 ```bash
 python car_racing.py
