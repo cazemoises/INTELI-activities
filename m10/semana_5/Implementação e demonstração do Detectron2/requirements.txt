@@ -1,0 +1,3 @@
+setuptools
+torch
+pyyaml==5.1
