@@ -1,0 +1,4 @@
+torch
+seaborn
+d2l
+matplotlib
